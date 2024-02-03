@@ -17,3 +17,7 @@ gcc cycraft.c -o cycraft
 ```
 
 You must make sure your computers IP Address is set to `192.168.11.111` and that your set to Group A ID 1 in the Cycraft settings menu.
+
+## Windows Version
+
+Thanks to RεtroFΔn⊗ there is now a version converted for windows named `cycraft-windows.c`.
